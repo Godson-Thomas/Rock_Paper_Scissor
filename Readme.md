@@ -1,1 +1,1 @@
-<img src="https://github.com/Godson-Thomas/Rock_Paper_Scissor/blob/master/RPS.jpg" width="600">
+<img src="https://github.com/Godson-Thomas/Rock_Paper_Scissor/blob/master/RPS.jpg" width="400">
